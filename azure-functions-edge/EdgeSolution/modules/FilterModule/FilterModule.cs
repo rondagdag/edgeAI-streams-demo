@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.Azure.Devices.Client;
@@ -23,7 +24,7 @@ namespace Functions.Samples
             {
                 logger.LogInformation("Info: Received one non-empty message");
                 // Get the body of the message and deserialize it.
-                var messageBody = JsonConvert.DeserializeObject<MessageBody>(messageString);
+                var messageBody = Newtonsoft.Json.JsonConvert.DeserializeObject<MessageBody>(messageString);
 
                 if (messageBody != null && messageBody.machine.temperature > temperatureThreshold)
                 {
@@ -36,8 +37,9 @@ namespace Functions.Samples
                          // Add a new property to the message to indicate it is an alert.
                          filteredMessage.Properties.Add("MessageType", "Alert");
                          // Send the message.
-                         await output.AddAsync(filteredMessage);
-                         logger.LogInformation("Info: Received and transferred a message with temperature above the threshold");
+                         await output.AddAsync(filteredMessage);                         
+                         logger.LogInformation($"Info: Received and transferred a message with temperature above the threshold");
+                         logger.LogInformation($"Info: {string.Join(Environment.NewLine,filteredMessage.Properties)}");
                     }
                 }
             }

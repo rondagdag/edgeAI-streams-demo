@@ -1,0 +1,244 @@
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.023, 0.552, 0.745, 0.745],"label": "keyboard", "confidence": "0.881836", "timestamp": "1669917514280688647"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.018, 0.554, 0.750, 0.756],"label": "keyboard", "confidence": "0.808105", "timestamp": "1669917515363926662"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.016, 0.554, 0.750, 0.750],"label": "keyboard", "confidence": "0.821777", "timestamp": "1669917516363844979"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.029, 0.550, 0.750, 0.744],"label": "keyboard", "confidence": "0.818359", "timestamp": "1669917517405427517"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.550, 0.750, 0.745],"label": "keyboard", "confidence": "0.823730", "timestamp": "1669917518405350297"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.031, 0.552, 0.750, 0.734],"label": "keyboard", "confidence": "0.813965", "timestamp": "1669917519488595492"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.012, 0.550, 0.750, 0.755],"label": "keyboard", "confidence": "0.815918", "timestamp": "1669917520571841800"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.010, 0.550, 0.751, 0.755],"label": "keyboard", "confidence": "0.827637", "timestamp": "1669917521655089438"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.025, 0.550, 0.750, 0.744],"label": "keyboard", "confidence": "0.837402", "timestamp": "1669917522696670944"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.032, 0.550, 0.750, 0.748],"label": "keyboard", "confidence": "0.800781", "timestamp": "1669917523696591316"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.022, 0.552, 0.748, 0.748],"label": "keyboard", "confidence": "0.842773", "timestamp": "1669917524696512378"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.020, 0.550, 0.750, 0.747],"label": "keyboard", "confidence": "0.797363", "timestamp": "1669917525779758043"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.027, 0.549, 0.748, 0.742],"label": "keyboard", "confidence": "0.824707", "timestamp": "1669917526863955069"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.036, 0.550, 0.749, 0.739],"label": "keyboard", "confidence": "0.825684", "timestamp": "1669917527863877955"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.552, 0.749, 0.752],"label": "keyboard", "confidence": "0.801270", "timestamp": "1669917528947121822"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.028, 0.550, 0.749, 0.742],"label": "keyboard", "confidence": "0.826660", "timestamp": "1669917530030369223"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.026, 0.552, 0.752, 0.744],"label": "keyboard", "confidence": "0.811523", "timestamp": "1669917531030290012"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.550, 0.750, 0.750],"label": "keyboard", "confidence": "0.842285", "timestamp": "1669917532071875678"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.028, 0.550, 0.751, 0.744],"label": "keyboard", "confidence": "0.790039", "timestamp": "1669917533155118704"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.023, 0.550, 0.751, 0.747],"label": "keyboard", "confidence": "0.839355", "timestamp": "1669917534238365008"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.025, 0.550, 0.750, 0.744],"label": "keyboard", "confidence": "0.861328", "timestamp": "1669917535238285248"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.550, 0.751, 0.747],"label": "keyboard", "confidence": "0.827637", "timestamp": "1669917536321532281"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.029, 0.552, 0.748, 0.745],"label": "keyboard", "confidence": "0.808105", "timestamp": "1669917537404780696"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.013, 0.552, 0.750, 0.748],"label": "keyboard", "confidence": "0.798340", "timestamp": "1669917538488026567"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.020, 0.552, 0.748, 0.753],"label": "keyboard", "confidence": "0.835449", "timestamp": "1669917539571273266"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.029, 0.552, 0.748, 0.739],"label": "keyboard", "confidence": "0.817871", "timestamp": "1669917540612855552"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.027, 0.550, 0.749, 0.747],"label": "keyboard", "confidence": "0.807129", "timestamp": "1669917541696102294"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.028, 0.552, 0.748, 0.752],"label": "keyboard", "confidence": "0.839844", "timestamp": "1669917542696021794"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.011, 0.550, 0.750, 0.756],"label": "keyboard", "confidence": "0.821289", "timestamp": "1669917543779269302"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.552, 0.750, 0.753],"label": "keyboard", "confidence": "0.813965", "timestamp": "1669917544820851104"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.013, 0.549, 0.750, 0.752],"label": "keyboard", "confidence": "0.849609", "timestamp": "1669917545904099017"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.016, 0.552, 0.751, 0.748],"label": "keyboard", "confidence": "0.829102", "timestamp": "1669917546820692739"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.550, 0.750, 0.748],"label": "keyboard", "confidence": "0.828613", "timestamp": "1669917547987265509"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.043, 0.552, 0.750, 0.760],"label": "keyboard", "confidence": "0.813965", "timestamp": "1669917549070512104"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.020, 0.552, 0.751, 0.747],"label": "keyboard", "confidence": "0.823242", "timestamp": "1669917550153758843"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.022, 0.550, 0.748, 0.744],"label": "keyboard", "confidence": "0.820312", "timestamp": "1669917551153679298"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.015, 0.552, 0.750, 0.753],"label": "keyboard", "confidence": "0.809082", "timestamp": "1669917552195263777"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.552, 0.748, 0.753],"label": "keyboard", "confidence": "0.837402", "timestamp": "1669917553278508928"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.015, 0.552, 0.751, 0.750],"label": "keyboard", "confidence": "0.817871", "timestamp": "1669917554361754772"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.020, 0.550, 0.750, 0.747],"label": "keyboard", "confidence": "0.852051", "timestamp": "1669917555445002011"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.549, 0.748, 0.748],"label": "keyboard", "confidence": "0.815430", "timestamp": "1669917556444923267"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.016, 0.554, 0.750, 0.756],"label": "keyboard", "confidence": "0.802734", "timestamp": "1669917557528169343"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.025, 0.552, 0.748, 0.744],"label": "keyboard", "confidence": "0.849609", "timestamp": "1669917558569753024"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.550, 0.749, 0.744],"label": "keyboard", "confidence": "0.817383", "timestamp": "1669917559652999226"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.552, 0.750, 0.755],"label": "keyboard", "confidence": "0.766602", "timestamp": "1669917560652919774"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.550, 0.750, 0.744],"label": "keyboard", "confidence": "0.820312", "timestamp": "1669917561736165477"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.026, 0.552, 0.748, 0.747],"label": "keyboard", "confidence": "0.803711", "timestamp": "1669917562819411826"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.018, 0.549, 0.748, 0.750],"label": "keyboard", "confidence": "0.844727", "timestamp": "1669917563819334674"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.012, 0.550, 0.752, 0.752],"label": "keyboard", "confidence": "0.802734", "timestamp": "1669917564860918040"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.550, 0.749, 0.748],"label": "keyboard", "confidence": "0.843262", "timestamp": "1669917565944163519"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.013, 0.550, 0.748, 0.752],"label": "keyboard", "confidence": "0.817871", "timestamp": "1669917566944083296"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.031, 0.549, 0.748, 0.740],"label": "keyboard", "confidence": "0.855469", "timestamp": "1669917568027329464"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.016, 0.549, 0.746, 0.748],"label": "keyboard", "confidence": "0.827637", "timestamp": "1669917569027249070"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.022, 0.550, 0.748, 0.748],"label": "keyboard", "confidence": "0.821289", "timestamp": "1669917570110495696"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.016, 0.552, 0.748, 0.745],"label": "keyboard", "confidence": "0.804199", "timestamp": "1669917571193742685"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.020, 0.550, 0.750, 0.747],"label": "keyboard", "confidence": "0.835449", "timestamp": "1669917572276988889"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.007, 0.550, 0.755, 0.752],"label": "keyboard", "confidence": "0.817871", "timestamp": "1669917573360236166"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.023, 0.550, 0.750, 0.744],"label": "keyboard", "confidence": "0.849121", "timestamp": "1669917574360161439"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.028, 0.550, 0.752, 0.744],"label": "keyboard", "confidence": "0.838867", "timestamp": "1669917575443404022"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.017, 0.550, 0.750, 0.747],"label": "keyboard", "confidence": "0.835449", "timestamp": "1669917576526651888"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.025, 0.550, 0.750, 0.739],"label": "keyboard", "confidence": "0.817383", "timestamp": "1669917577609897947"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.033, 0.550, 0.750, 0.739],"label": "keyboard", "confidence": "0.823730", "timestamp": "1669917578651480009"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.021, 0.550, 0.746, 0.752],"label": "keyboard", "confidence": "0.810547", "timestamp": "1669917579651398849"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.020, 0.549, 0.748, 0.747],"label": "keyboard", "confidence": "0.828613", "timestamp": "1669917580734646684"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.059, 0.528, 0.708, 0.731],"label": "keyboard", "confidence": "0.698242", "timestamp": "1669918659951170656"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.082, 0.529, 0.705, 0.726],"label": "keyboard", "confidence": "0.670410", "timestamp": "1669918661034419152"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.048, 0.536, 0.706, 0.734],"label": "keyboard", "confidence": "0.773438", "timestamp": "1669918662117664132"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.058, 0.537, 0.706, 0.734],"label": "keyboard", "confidence": "0.755371", "timestamp": "1669918663117583709"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.053, 0.537, 0.707, 0.732],"label": "keyboard", "confidence": "0.760254", "timestamp": "1669918664117505205"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.059, 0.529, 0.707, 0.732],"label": "keyboard", "confidence": "0.709473", "timestamp": "1669918665200751173"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.060, 0.537, 0.706, 0.734],"label": "keyboard", "confidence": "0.786621", "timestamp": "1669918666283997408"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.049, 0.529, 0.711, 0.727],"label": "keyboard", "confidence": "0.502441", "timestamp": "1669918667367717429"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.016, 0.348, 0.557],"label": "person", "confidence": "0.847168", "timestamp": "1669918668409299652"}, {"bbox": [0.070, 0.537, 0.696, 0.739],"label": "keyboard", "confidence": "0.701172", "timestamp": "1669918668409299652"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.016, 0.283, 0.614],"label": "person", "confidence": "0.796387", "timestamp": "1669918669409220517"}, {"bbox": [0.118, 0.193, 0.536, 0.502],"label": "tv", "confidence": "0.760742", "timestamp": "1669918669409220517"}, {"bbox": [0.044, 0.534, 0.712, 0.727],"label": "keyboard", "confidence": "0.803223", "timestamp": "1669918669409220517"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.031, 0.273, 0.604],"label": "person", "confidence": "0.705078", "timestamp": "1669918670409140959"}, {"bbox": [0.078, 0.159, 0.523, 0.492],"label": "laptop", "confidence": "0.584961", "timestamp": "1669918670409140959"}, {"bbox": [0.055, 0.537, 0.710, 0.729],"label": "keyboard", "confidence": "0.799316", "timestamp": "1669918670409140959"}, {"bbox": [0.064, 0.167, 0.518, 0.487],"label": "cell phone", "confidence": "0.634766", "timestamp": "1669918670409140959"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.018, 0.268, 0.594],"label": "person", "confidence": "0.713379", "timestamp": "1669918671492388349"}, {"bbox": [0.080, 0.188, 0.516, 0.500],"label": "laptop", "confidence": "0.797363", "timestamp": "1669918671492388349"}, {"bbox": [0.048, 0.534, 0.707, 0.731],"label": "keyboard", "confidence": "0.784180", "timestamp": "1669918671492388349"}, {"bbox": [0.080, 0.188, 0.516, 0.500],"label": "cell phone", "confidence": "0.547363", "timestamp": "1669918671492388349"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.070, 0.541, 0.700, 0.732],"label": "keyboard", "confidence": "0.803711", "timestamp": "1669918672575632990"}, {"bbox": [0.050, 0.140, 0.513, 0.437],"label": "cell phone", "confidence": "0.820312", "timestamp": "1669918672575632990"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.034, 0.148, 0.480, 0.396],"label": "laptop", "confidence": "0.647461", "timestamp": "1669918673575554975"}, {"bbox": [0.081, 0.539, 0.699, 0.735],"label": "keyboard", "confidence": "0.841309", "timestamp": "1669918673575554975"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.072, 0.541, 0.703, 0.724],"label": "keyboard", "confidence": "0.707031", "timestamp": "1669918674658801715"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.047, 0.537, 0.706, 0.739],"label": "keyboard", "confidence": "0.718262", "timestamp": "1669918675742049214"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.061, 0.537, 0.705, 0.731],"label": "keyboard", "confidence": "0.744629", "timestamp": "1669918676783641953"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.065, 0.536, 0.703, 0.729],"label": "keyboard", "confidence": "0.856934", "timestamp": "1669918677783550854"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.015, 0.358, 0.407],"label": "person", "confidence": "0.784668", "timestamp": "1669918685157960397"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.000, 0.368, 0.453],"label": "person", "confidence": "0.931641", "timestamp": "1669918686157880995"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.003, 0.331, 0.429],"label": "person", "confidence": "0.866211", "timestamp": "1669918687241126307"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.003, 0.354, 0.448],"label": "person", "confidence": "0.861816", "timestamp": "1669918688241047442"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.000, 0.385, 0.583],"label": "person", "confidence": "0.592773", "timestamp": "1669918689319305171"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.024, 0.377, 0.589],"label": "person", "confidence": "0.733887", "timestamp": "1669918690480867505"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.002, 0.005, 0.419, 0.925],"label": "bed", "confidence": "0.537598", "timestamp": "1669918700865037764"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.002, 0.024, 0.516, 0.617],"label": "person", "confidence": "0.945312", "timestamp": "1669918701948286139"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.041, 0.417, 0.502],"label": "person", "confidence": "0.623047", "timestamp": "1669918702989867560"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.000, 0.350, 0.893],"label": "person", "confidence": "0.745117", "timestamp": "1669918704073113805"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.001, 0.032, 0.413, 0.867],"label": "person", "confidence": "0.531250", "timestamp": "1669918705156360500"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.512, 0.242, 0.985, 0.987],"label": "chair", "confidence": "0.621582", "timestamp": "1669918713572354293"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.254, 0.149, 0.679, 0.661],"label": "laptop", "confidence": "0.625000", "timestamp": "1669918722113336440"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.000, 0.005, 0.370, 0.292],"label": "person", "confidence": "0.552246", "timestamp": "1669918724279832764"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.509, 0.244, 0.983, 0.985],"label": "chair", "confidence": "0.566895", "timestamp": "1669918730651991524"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.518, 0.242, 0.988, 0.987],"label": "chair", "confidence": "0.520020", "timestamp": "1669918733818402918"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.341, 0.317, 0.523, 0.669],"label": "teddy bear", "confidence": "0.506836", "timestamp": "1669918743275974100"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.339, 0.317, 0.523, 0.669],"label": "teddy bear", "confidence": "0.511719", "timestamp": "1669918744275893692"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.336, 0.295, 0.521, 0.659],"label": "teddy bear", "confidence": "0.568848", "timestamp": "1669918745359140896"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.341, 0.315, 0.525, 0.669],"label": "teddy bear", "confidence": "0.506836", "timestamp": "1669918746442387294"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.339, 0.317, 0.526, 0.669],"label": "teddy bear", "confidence": "0.514160", "timestamp": "1669918748567216807"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.011, 0.010, 0.518, 0.805],"label": "person", "confidence": "0.878418", "timestamp": "1669918752733550481"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.536, 0.239, 0.988, 0.989],"label": "chair", "confidence": "0.547363", "timestamp": "1669918753816797010"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.213, 0.026, 0.533, 0.586],"label": "cat", "confidence": "0.711914", "timestamp": "1669918756941547359"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.348, 0.297, 0.522, 0.662],"label": "teddy bear", "confidence": "0.529785", "timestamp": "1669918758024796307"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.346, 0.313, 0.526, 0.667],"label": "teddy bear", "confidence": "0.528809", "timestamp": "1669918760191287264"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.348, 0.315, 0.526, 0.667],"label": "teddy bear", "confidence": "0.564453", "timestamp": "1669918761274536087"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.347, 0.317, 0.528, 0.667],"label": "teddy bear", "confidence": "0.516113", "timestamp": "1669918763357700948"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.346, 0.310, 0.527, 0.669],"label": "teddy bear", "confidence": "0.517090", "timestamp": "1669918764440947329"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.347, 0.315, 0.527, 0.667],"label": "teddy bear", "confidence": "0.528809", "timestamp": "1669918765524194528"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.347, 0.313, 0.526, 0.669],"label": "teddy bear", "confidence": "0.567871", "timestamp": "1669918766524114411"}]}
+{"NEURAL_NETWORK": [{"bbox": [0.346, 0.312, 0.527, 0.667],"label": "teddy bear", "confidence": "0.574707", "timestamp": "1669918767607362039"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": [{"bbox": [0.540, 0.237, 0.990, 0.989],"label": "chair", "confidence": "0.517578", "timestamp": "1669918784356028559"}]}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}
+{"NEURAL_NETWORK": []}

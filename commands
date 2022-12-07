@@ -1,0 +1,1 @@
+az iot edge set-modules --hub-name percept-demo-iothub --device-id local-test-device --content ./deployment.debug.template.json --login "HostName=percept-demo-iothub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=dAv5wdmjNvLj4oDIPvmhDCSwsPEwvq7D2X5miq8R1Cc="
